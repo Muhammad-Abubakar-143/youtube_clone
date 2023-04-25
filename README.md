@@ -1,13 +1,17 @@
-# Karmawala International
+# Youtube Clone App
 
-# Introduction
+Want to design a fully responsive and modern clone like Youtube. You can use this code to make it.
+Moreover you will learn about:
+1. API calls
+2. Data fetching
+3. Data Handleing
+and much more.
 
-If you want to create a fully responsive rice farm application. Then you can use this code as an example.
-
-### Tools
+## Tools
+In this project i've used :
 1. React.JS
-2. Tailwindcss
-
+2. Rapid API.
+3. Tailwindcss
 
 ### `npm start`
 
