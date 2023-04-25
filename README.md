@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Karmawala International
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
 
-## Available Scripts
+If you want to create a fully responsive rice farm application. Then you can use this code as an example.
+
+## 
 
 In the project directory, you can run:
 
